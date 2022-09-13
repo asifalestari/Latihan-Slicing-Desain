@@ -1,0 +1,20 @@
+<svg width="115" height="50" viewBox="0 0 115 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_87_109)">
+<path d="M20 33.3332C24.6023 33.3332 28.3333 29.6022 28.3333 24.9998C28.3333 20.3975 24.6023 16.6665 20 16.6665C15.3976 16.6665 11.6666 20.3975 11.6666 24.9998C11.6666 29.6022 15.3976 33.3332 20 33.3332Z" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 6.6665V9.99984" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 40V43.3333" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.03333 12.0332L9.39999 14.3999" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.6 35.6001L32.9666 37.9668" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M1.66663 25H4.99996" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M35 25H38.3333" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M7.03333 37.9668L9.39999 35.6001" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M30.6 14.3999L32.9666 12.0332" stroke="#09A206" stroke-opacity="0.63" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<path d="M98.3334 10.4165H81.6667C73.6126 10.4165 67.0834 16.9457 67.0834 24.9998C67.0834 33.054 73.6126 39.5832 81.6667 39.5832H98.3334C106.388 39.5832 112.917 33.054 112.917 24.9998C112.917 16.9457 106.388 10.4165 98.3334 10.4165Z" fill="#DBFDDA" stroke="#DBFDDA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M81.6666 31.25C85.1184 31.25 87.9166 28.4518 87.9166 25C87.9166 21.5482 85.1184 18.75 81.6666 18.75C78.2148 18.75 75.4166 21.5482 75.4166 25C75.4166 28.4518 78.2148 31.25 81.6666 31.25Z" stroke="#09A206" stroke-opacity="0.63" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<clipPath id="clip0_87_109">
+<rect width="40" height="40" fill="white" transform="translate(0 5)"/>
+</clipPath>
+</defs>
+</svg>
